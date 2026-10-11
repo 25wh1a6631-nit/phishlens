@@ -79,6 +79,13 @@ PhishLens can identify multiple indicators, such as:
 - Suspicious keywords
 
 The application then explains which checks were triggered.
+## 📸 Preview
+
+### URL Analysis
+![PhishLens URL analysis](./phishlens-result.png)
+
+### Detailed Security Checks
+![PhishLens security check breakdown](./phishlens-details.png)
 
 ## ⚠️ Limitations
 
